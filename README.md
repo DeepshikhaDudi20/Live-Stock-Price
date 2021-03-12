@@ -20,7 +20,7 @@ Install canvas before running test cases.
 
 Launches the test runner in the interactive watch mode.
 
-### `Project Explaination`
+### `Project Explanation`
 
 Stock API Used:
 https://www.alphavantage.co/query?function=TIME_SERIES_INTRADAY&symbol=IBM&interval=5min&outputsize=full&apikey=demo
